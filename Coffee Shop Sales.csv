@@ -1,0 +1,35 @@
+Row Labels,Count of transaction_id,,Row Labels,Count of transaction_id,Sum of Revenue,,Row Labels,Sum of Revenue
+Mon,923,,Regular syrup,4979,"$6,084.80",,January,$974.40
+Tue,1058,,Sugar free syrup,1811,"$2,324.00",,February,$930.40
+Wed,963,,Grand Total,6790,"$8,408.80",,March,"$1,172.00"
+Thu,877,,,,,,April,"$1,418.40"
+Fri,1032,,,,,,May,"$1,905.60"
+Sat,989,,,,,,June,"$2,008.00"
+Sun,948,,,,,,Grand Total,"$8,408.80"
+Grand Total,6790,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Row Labels,Count of transaction_id,,,,,,,
+Flavours,6790,,,,,,,
+Grand Total,6790,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Row Labels,Count of transaction_id,,,,
+,,,06,328,,,,
+,,,07,798,,,,
+,,,08,1020,,,,
+,,,09,985,,,,
+,,,10,1221,,,,
+,,,11,346,,,,
+,,,12,259,,,,
+,,,13,277,,,,
+,,,14,287,,,,
+,,,15,269,,,,
+,,,16,313,,,,
+,,,17,278,,,,
+,,,18,203,,,,
+,,,19,162,,,,
+,,,20,44,,,,
+,,,Grand Total,6790,,,,
